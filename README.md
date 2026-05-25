@@ -1,7 +1,7 @@
 #  💫Konnichiwa
 <div align="center">
   <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=500&color=15F01B9E&background=72875100&center=true&vCenter=true&multiline=true&width=900&height=300&lines=Welcome+Devs%2C;Hey+%F0%9F%91%8B+I'm+Sejal+Kamble+;-+An+aspiring+Software+Enginner+fueled+by+curiousity.;-Pre-Final+Year+;-Pursuing+B.Tech+CSE;-Exploring+deep+learning%2C+predictive+modeling+%26+big+data.;-Always+questioning%2C+analyzing%2C+and+optimizing.;-On+a+mission+to+turn+complex+data+into+powerful+insights.;-love+to+Contribute+in+Open-Source+Arena." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=500&color=15F01B9E&background=72875100&center=true&vCenter=true&multiline=true&width=900&height=300&lines=Welcome+Devs%2C;Hey+%F0%9F%91%8B+I'm+Sejal+Kamble+;-+An+aspiring+Software+Enginner+fueled+by+curiousity.;-Final+Year+;-Pursuing+B.Tech+CSE;-Exploring+deep+learning%2C+predictive+modeling+%26+big+data.;-Always+questioning%2C+analyzing%2C+and+optimizing.;-On+a+mission+to+turn+complex+data+into+powerful+insights.;-love+to+Contribute+in+Open-Source+Arena." alt="Typing SVG" /></a>
 </div>
 <!-- Stats -->
 <div align="center">
