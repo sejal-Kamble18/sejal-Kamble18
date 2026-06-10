@@ -24,6 +24,8 @@
 
 <br>
 
+
+
 ## 🛠️ Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -57,6 +59,16 @@
 
 <br>
 
+  ## 🧊 My 3D GitHub Contribution Graph
+<div align="center">
+ 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
 ## 🏆 **Hacktoberfest 2025**
 
 <p align="center">
@@ -87,4 +99,5 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
+
 
