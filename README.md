@@ -1,5 +1,14 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sejal%20Kamble&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://sejal-portfolio-one.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejal-kamble-567261291/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksejal630@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ksejal630)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
 
+</div>
+  
 ## 📌 About Me
 - 🎓 Final-Year B.Tech student in Computer Science and Engineering
 - 💡 Interested in software development, AI, open source, and practical problem solving
@@ -11,18 +20,25 @@
 <br>
 
 ## 📊 GitHub Stats
-<p algin="center">
-  <a href="https://github.com/sejal-Kamble18">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sejal-Kamble18&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="sejal-Kamble18's GitHub Stats" />
-  </a>
-  <a href="https://github.com/sejal-Kamble18">
+
+<div algin="center">
+
+   <img href="https://github.com/sejal-Kamble18">
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sejal-Kamble18&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="sejal-Kamble18's GitHub Stats" />
+  </img>
+
+  <img height="165" 
+       src="https://streak-stats.demolab.com/?user=sejal-Kamble18&layout=compact&theme=dracula&border_radius=10" 
+       alt="Sejal Kamble's GitHub Streak" />
+
+       
+  <img href="https://github.com/sejal-Kamble18">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sejal-Kamble18&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+  </img>
+
+</div>
 
 <br>
-
-
 
 ## 🛠️ Languages & Tools
 
@@ -76,21 +92,6 @@
 </p>
 
 [![Holopin Badges](https://holopin.me/sejalkamble)](https://holopin.io/@sejalkamble)
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sejal-kamble-567261291/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/ksejal630">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ksejal630@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
