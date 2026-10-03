@@ -38,7 +38,6 @@
 </div>
 
 <br>
-## 🛠️ Technical Skills
 
 ## 🛠️ Technical Skills
 
